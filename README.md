@@ -8,4 +8,4 @@ For now rep contains:
 			 https://www.kaggle.com/mlg-ulb/creditcardfraud
 3. Unfinished notebook of oil price prediction based on twitter news. Language: RUS.
 
-	What to do: apply some RNN. 
+	What to do: improve RNN or apply better one. 
